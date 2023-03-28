@@ -7,5 +7,5 @@ Ejercicio que muestra la tabla de multiplicar del número indicado por el usuari
 
 ## [Async-Await](AsyncAwait)
 
-Ejercicio clásico de las cápsulas, mostrando tanto la ejecución síncrona como asíncrona y los tiempos de ejecución de ambos.
+Ejercicio clásico de las cápsulas, mostrando tanto la ejecución síncrona como concurrente y los tiempos de ejecución de ambos.
 
