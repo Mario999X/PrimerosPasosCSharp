@@ -10,8 +10,8 @@ namespace AsyncAwait.Models
     public class Capsula
     {
         private int Id;
-        public int Pasajeros { get; set; }
-        public int LaunchTime { get; set; }
+        public int Pasajeros { get; }
+        public int LaunchTime { get; }
 
         public override string ToString()
         {

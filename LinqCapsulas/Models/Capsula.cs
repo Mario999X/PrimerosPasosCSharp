@@ -9,8 +9,8 @@ namespace LinqCapsulas.Models
     internal class Capsula
     {
         public int Id { get; }
-        public int Pasajeros { get; set; }
-        public int LaunchTime { get; set; }
+        public int Pasajeros { get; }
+        public int LaunchTime { get; }
 
         public override string ToString()
         {
