@@ -13,7 +13,7 @@ Ejercicio clásico de las cápsulas, mostrando tanto la ejecución síncrona com
 
 Ejercicio para consultar colecciones haciendo uso de **linq** para los distintos filtrados.
 
-## [Restaurante CSharp] (https://github.com/Mario999X/RestauranteCsharp)
+## [Restaurante CSharp](https://github.com/Mario999X/RestauranteCsharp)
 
 Ejercicio colaborativo con [Daniel Rodriguez](https://github.com/Idliketobealoli) de un simulacro de un restaurante.
 Se trata de un productor-consumidor. También se ve aplica la creación de ficheros y directorios.
