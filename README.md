@@ -9,3 +9,6 @@ Ejercicio que muestra la tabla de multiplicar del número indicado por el usuari
 
 Ejercicio clásico de las cápsulas, mostrando tanto la ejecución síncrona como concurrente y los tiempos de ejecución de ambos.
 
+## [Linq- Básico](LinqCapsulas)
+
+Ejercicio para consultar colecciones haciendo uso de **linq** para los distintos filtrados.
