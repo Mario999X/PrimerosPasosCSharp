@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
-namespace AsyncAwait.Models
+namespace LinqCapsulas.Models
 {
-    public class Capsula
+    internal class Capsula
     {
-        private int Id;
+        public int Id { get; }
         public int Pasajeros { get; set; }
         public int LaunchTime { get; set; }
 
@@ -38,6 +37,5 @@ namespace AsyncAwait.Models
 
             return rnd.Next(500, 1000);
         }
-
     }
 }
