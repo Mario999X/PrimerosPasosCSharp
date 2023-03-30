@@ -16,4 +16,6 @@ Ejercicio para consultar colecciones haciendo uso de **linq** para los distintos
 ## [Restaurante CSharp](https://github.com/Mario999X/RestauranteCsharp)
 
 Ejercicio colaborativo con [Daniel Rodriguez](https://github.com/Idliketobealoli) de un simulacro de un restaurante.
-Se trata de un productor-consumidor. También se ve aplica la creación de ficheros y directorios.
+Se trata de un productor-consumidor. 
+
+También se aplica la creación de ficheros y la protección ante la escritura y lectura de varios procesos en los mismos.
