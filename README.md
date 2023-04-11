@@ -19,3 +19,8 @@ Ejercicio colaborativo con [Daniel Rodriguez](https://github.com/Idliketobealoli
 Se trata de un productor-consumidor. 
 
 También se aplica la creación de ficheros y la protección ante la escritura y lectura de varios procesos en los mismos.
+
+## [Consumir PokéApi](https://github.com/Mario999X/ConsumirApi)
+
+Ejercicio colaborativo con [Daniel Rodriguez](https://github.com/Idliketobealoli) basado en consumir de forma básica una API, en este
+caso, [PokéApi](https://pokeapi.co/) y almancenar las búsquedas sin repeticiones.
